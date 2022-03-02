@@ -22,6 +22,10 @@ When the user load my web application they should have a registered service work
 
 When the user registers a service worker then the user should have my static assets pre cached upon loading along with subsequent pages and static assets.
 
+# Screenshot
+
+<img width="1330" alt="Screen Shot 2022-03-01 at 10 05 33 PM" src="https://user-images.githubusercontent.com/94794961/156287227-1d8b9a26-61f3-4b94-91d2-a11dbed28eca.png">
+
 # Heroku link
 
 https://text-editor1995.herokuapp.com/
